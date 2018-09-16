@@ -1,0 +1,36 @@
+_repo: The-Plunderers-A-Novel_51970
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bracker, M. Leone
+    birthdate: 1885
+    deathdate: 1937
+    gutenberg_agent_id: '8758'
+    url: http://www.gutenberg.org/2009/agents/8758
+creator:
+  author:
+    agent_name: Lefevre, Edwin
+    alias: Lefèvre, Edwin
+    birthdate: 1871
+    deathdate: 1943
+    gutenberg_agent_id: '25725'
+    url: http://www.gutenberg.org/2009/agents/25725
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Capitalists and financiers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Wall Street (New York, N.Y.) -- Fiction'
+- GITenberg
+tableOfContents: The pearls of the Princess Patricia -- The panic of the lion -- As
+  proofs of holy writ -- Cheap at a million.
+title: 'The Plunderers: A Novel'
+url: http://www.gutenberg.org/ebooks/51970
